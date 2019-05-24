@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163560080408",
+    "firebase_url": "https://appnew-bbeee.firebaseio.com",
+    "project_id": "appnew-bbeee",
+    "storage_bucket": "appnew-bbeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163560080408:android:8011ac767ebaf4ad",
+        "android_client_info": {
+          "package_name": "com.example.duynguyen.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163560080408-00btftknvcj9ghft4mtalk85phu0b7de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duynguyen.new_app",
+            "certificate_hash": "cd7903f2edf0637997cf4f79b55f6535733ff55c"
+          }
+        },
+        {
+          "client_id": "163560080408-p0kkdg0n2lvbi6nbj9sn6bmr8cr4spqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wSLkQ0v-Do5DlsRyT9-fLIC3srvD7p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163560080408-p0kkdg0n2lvbi6nbj9sn6bmr8cr4spqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
